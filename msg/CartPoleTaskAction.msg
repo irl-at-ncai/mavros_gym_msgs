@@ -1,1 +1,0 @@
-int32 left_or_right
